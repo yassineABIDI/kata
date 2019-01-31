@@ -1,0 +1,14 @@
+com\bank\kata\model\Client.class
+com\bank\kata\Services\OperationsHistoryService.class
+com\bank\kata\model\Transaction.class
+com\bank\kata\model\Account.class
+com\bank\kata\utils\OperationType.class
+com\bank\kata\Controller\AccountRestController.class
+com\bank\kata\repositories\AccountRepository.class
+com\bank\kata\repositories\OperationHistoryRepository.class
+com\bank\kata\Services\AccountService.class
+com\bank\kata\Services\Impl\OperationsHistoryServiceImpl.class
+com\bank\kata\Services\Impl\AccountServiceImpl.class
+com\bank\kata\model\OperationsHistory.class
+com\bank\kata\KataApplication.class
+com\bank\kata\repositories\ClientRepository.class
